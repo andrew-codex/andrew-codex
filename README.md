@@ -7,7 +7,7 @@ I enjoy experimenting with **Laravel, JavaScript, and small projects** to improv
 
 ---
 
-## 🌱 Skills & Learning
+##  Skills & Learning
 
 - **Backend:** PHP, Laravel  
 - **Frontend:** HTML, CSS, JavaScript , Bootstrap 
