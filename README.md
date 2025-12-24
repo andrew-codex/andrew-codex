@@ -30,7 +30,7 @@ I enjoy experimenting with **Laravel, JavaScript, and small projects** to improv
 
 - GitHub: [github.com/andrew-codex](https://github.com/andrew-codex)  
 
-- Email: [your-email@example.com](mailto:andrewlegasan22@gmail.com)  
+- Email:(mailto:andrewlegasan22@gmail.com)  
 
 ---
 
