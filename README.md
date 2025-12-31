@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Andrew Legasan
+#  Hi, I'm Andrew Legasan
 
-🎓 **Student | Aspiring Web & Software Developer**
+ **Student | Aspiring Web & Software Developer**
 
 I’m currently studying IT and learning how to build web applications.  
 I enjoy experimenting with **Laravel, JavaScript, and small projects** to improve my skills every day.
@@ -17,7 +17,7 @@ I enjoy experimenting with **Laravel, JavaScript, and small projects** to improv
 
 ---
 
-## 💻 Projects I’m Working On
+##  Projects I’m Working On
 
 - **POS System** – Manage products, inventory, and sales  
 
