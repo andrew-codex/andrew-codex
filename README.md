@@ -17,14 +17,7 @@ I enjoy experimenting with **Laravel, JavaScript, and small projects** to improv
 
 ---
 
-##  Projects I’m Working On
 
-- **POS System** – Manage products, inventory, and sales  
-
-
-> All projects are part of my learning journey as a student. 
-
----
 
 ## 📫 Connect with Me
 
